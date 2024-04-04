@@ -1,7 +1,7 @@
 # About Me
 ## Hi 👋 My name is Alex Santhosh
 
-I'm a curious engineer who has delved deep into the world of algorithms, data structures, and software development, honing my skills in programming languages like Java, Python, C and C++. With a passion for problem-solving and a keen interest in cutting-edge technologies such as artificial intelligence and machine learning, I'm eager to apply my knowledge to real-world challenges.
+I'm a curious engineer who has delved deep into the world of algorithms, data structures, and software development, honing my skills in programming languages like  C, C++ and Python. With a passion for problem-solving and a keen interest in cutting-edge technologies such as artificial intelligence and machine learning, I'm eager to apply my knowledge to real-world challenges.
 
 ## Skills
 - C
