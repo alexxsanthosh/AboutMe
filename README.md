@@ -8,7 +8,9 @@ I'm a curious engineer who has delved deep into the world of algorithms, data st
 - C++
 - HTML
 - CSS
+- JavaScript
 - Python
+- SQL
 
 ## Projects
 ### College Recommendation System
@@ -22,7 +24,7 @@ regression machine learning models on the data set to suggest colleges he/she is
 ## Internship
 NeST Cyber Campus 
 - Gained practical experience in Internet of Things (IoT) through hands-on projects, with a
-particular focus on Arduino-based applications. E
+particular focus on Arduino-based applications.
 
 
 ## Contact
